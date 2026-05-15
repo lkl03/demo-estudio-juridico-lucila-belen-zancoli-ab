@@ -1,2 +1,7 @@
-# demo-estudio-juridico-lucila-belen-zancoli-ab
-Demo web para ESTUDIO JURIDICO LUCILA BELEN ZANCOLI ABOGADA — diseñada por eterlab.
+# ESTUDIO JURIDICO LUCILA BELEN ZANCOLI ABOGADA
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
